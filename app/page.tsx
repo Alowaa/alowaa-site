@@ -128,8 +128,8 @@ export default function HomePage() {
                 <Star className="text-[#FFBF00] w-5 h-5" />
               </div>
               <p className="text-gray-600 mb-6 font-['Roboto']">
-                "Alowaa helped me find my community when I moved to Paris for my studies. I've made friends from all
-                over the world!"
+                &quot;Alowaa helped me find my community when I moved to Paris for my studies. I&rsquo;ve made friends from all
+                over the world!&quot;
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-gray-200 rounded-full mr-3"></div>
@@ -148,8 +148,8 @@ export default function HomePage() {
                 <Star className="text-[#FFBF00] w-5 h-5" />
               </div>
               <p className="text-gray-600 mb-6 font-['Roboto']">
-                "Moving to a new country was intimidating, but Alowaa made it easy to connect with other expats and
-                locals. Best app ever!"
+                &rsquo;Moving to a new country was intimidating, but Alowaa made it easy to connect with other expats and
+                locals. Best app ever!&rsquo;
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-gray-200 rounded-full mr-3"></div>
@@ -168,8 +168,8 @@ export default function HomePage() {
                 <Star className="text-[#FFBF00] w-5 h-5" />
               </div>
               <p className="text-gray-600 mb-6 font-['Roboto']">
-                "I've tried many apps, but Alowaa truly understands what international people need. I found my best
-                friends here!"
+                &rsquo;I&rsquo;ve tried many apps, but Alowaa truly understands what international people need. I found my best
+                friends here!&rsquo;
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-gray-200 rounded-full mr-3"></div>
